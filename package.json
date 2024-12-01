@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "npx tsc && node $FILE"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
